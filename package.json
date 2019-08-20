@@ -8,7 +8,11 @@
   "dependencies": {
     "ikea-tradfri": "^3.7.0"
   },
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
-    "@types/node": "^12.7.2"
+    "@types/node": "^12.7.2",
+    "typescript": "^3.5.3"
   }
 }
