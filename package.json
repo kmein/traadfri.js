@@ -1,0 +1,14 @@
+{
+  "name": "traadfri.js",
+  "version": "1.0.0",
+  "description": "IKEA Trådfri",
+  "main": "index.js",
+  "author": "kieran.meinhardt@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "ikea-tradfri": "^3.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2"
+  }
+}
