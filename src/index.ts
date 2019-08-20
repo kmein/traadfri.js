@@ -2,7 +2,6 @@ import Tradfri, { Credentials } from "ikea-tradfri";
 
 import identity from './identity';
 
-const identity: Credentials =
 const tradfri: Tradfri = new Tradfri("192.168.178.28", identity);
 
 tradfri
